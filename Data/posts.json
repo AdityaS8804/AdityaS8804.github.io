@@ -1,0 +1,32 @@
+{
+    "0": {
+        "heading": "Heading1",
+        "sub-heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "date": "08/08/2023",
+        "tags": [
+            "Tag1",
+            "Tag2"
+        ],
+        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+    },
+    "1": {
+        "heading": "Heading2",
+        "sub-heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "date": "08/08/2023",
+        "tags": [
+            "Tag1",
+            "Tag2"
+        ],
+        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+    },
+    "2": {
+        "heading": "Heading3",
+        "sub-heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "date": "08/08/2023",
+        "tags": [
+            "Tag1",
+            "Tag2"
+        ],
+        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+    }
+}
