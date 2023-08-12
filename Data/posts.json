@@ -7,7 +7,7 @@
             "Tag1",
             "Tag2"
         ],
-        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+        "MainPic": "https:\\adityas8804.github.io\\Data\\logo512.png"
     },
     "1": {
         "heading": "Heading2",
@@ -17,7 +17,7 @@
             "Tag1",
             "Tag2"
         ],
-        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+        "MainPic": "https:\\adityas8804.github.io\\Data\\logo512.png"
     },
     "2": {
         "heading": "Heading3",
@@ -27,6 +27,6 @@
             "Tag1",
             "Tag2"
         ],
-        "MainPic": "adityas8804.github.io\\Data\\logo512.png"
+        "MainPic": "https:\\adityas8804.github.io\\Data\\logo512.png"
     }
 }
